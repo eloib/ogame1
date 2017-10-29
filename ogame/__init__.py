@@ -6,7 +6,7 @@ import time
 import arrow
 import requests
 import random
-
+# test  
 from ogame import constants
 from ogame.errors import BAD_UNIVERSE_NAME, BAD_DEFENSE_ID, NOT_LOGGED, BAD_CREDENTIALS, CANT_PROCESS, BAD_BUILDING_ID, BAD_SHIP_ID, BAD_RESEARCH_ID
 from bs4 import BeautifulSoup
